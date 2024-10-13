@@ -10,6 +10,9 @@ public class Main{
           System.out.println("Hello Jenkins");
            System.out.println("this is java program");
 
+           student s1=new Student();
+           si.sayHello();
+
           
 
     }
