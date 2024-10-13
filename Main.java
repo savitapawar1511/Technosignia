@@ -11,7 +11,7 @@ public class Main{
            System.out.println("this is java program");
 
            student s1=new Student();
-           si.sayHello();
+           s1.sayHello();
 
           
 
